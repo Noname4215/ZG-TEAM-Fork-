@@ -1,7 +1,7 @@
 hg = hg or {}
 hg.Version = "Release 1.3.0"
-hg.GitHub_ReposOwner = "uzelezz123"
-hg.GitHub_ReposName = "Z-City" -- please add your real git fork!
+hg.GitHub_ReposOwner = "Noname4215"
+hg.GitHub_ReposName = "ZG-TEAM-Fork-" -- please add your real git fork!
 
 if SERVER then
 	resource.AddWorkshop("3657285193") -- main addon
